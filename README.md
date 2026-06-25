@@ -5,7 +5,7 @@
 > Giảng viên: Nguyễn Khánh Linh · VinUniversity
 
 ---
-
+Link Driver OUTPUT_DIR: https://drive.google.com/file/d/1DnYM1EKepbLeHgpBvP5RS_gKYBMUnrih/view?usp=sharing
 ## 📦 Cái gì có trong gói này
 
 Đây là gói tài liệu hoàn chỉnh cho **Ngày 21** của khóa AICB Phase 2 Track 3 — bài học về fine-tuning LLMs với LoRA/QLoRA.
