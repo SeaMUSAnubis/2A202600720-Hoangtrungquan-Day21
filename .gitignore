@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+OUTPUT_DIR/
+OUTPUT_DIR.zip
